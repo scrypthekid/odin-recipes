@@ -1,0 +1,42 @@
+* {
+    background-color: rgba(29, 29, 32, 0.788);
+}
+
+#title {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0, 0.637);
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+p {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+ol {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+img {
+    height: 300px;
+    width: auto;
+    margin: auto;
+    display: block;
+}
